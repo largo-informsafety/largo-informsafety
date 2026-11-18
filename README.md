@@ -1,1 +1,1 @@
-<img src="6c509267d0d701019ac905c0f6cd990d (1).jpg" alt="Баннер профиля" width="100%" />
+<img src="a20a35f6571ea8b8d6c20abbe3012aef.jpg" alt="Баннер профиля" width="100%" />
